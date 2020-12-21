@@ -3,6 +3,8 @@ Campaign analytics for departmental stores
 
 Example of Performance boost by Feature engineeering, If an Email campaign subject has a Emoji, it goes to the spam.
 
+[Notebook](https://github.com/Seeker875/Email-Campaign-Analytics/blob/master/EmailCamapaign.ipynb)
+
 ### Goal
 
 * Studying factors affecting the success of Email campaigns.
